@@ -5,7 +5,7 @@ Bu C# uygulaması, Türkiye Cumhuriyeti (TC) kimlik numarasının doğruluğunu 
 ## Özellikler
 
 - Kullanıcının **TC Kimlik Numarası**, **Adı**, **Soyadı**, ve **Doğum Yılı** bilgisini alır.
-- **SOAP** istek formatında, **NVI TC Kimlik No Doğrulama API** servisine bağlanır.
+- **SOAP** istek formatında, **TC İÇİŞLERİ BAKANLIĞI NÜFUS VE VATANDAŞLIK İŞLERİ GENEL MÜDÜRLÜĞÜ** servisine bağlanır.
 - API'den gelen yanıtı kontrol eder ve kullanıcıya kimlik bilgilerinin doğruluğu hakkında bilgi verir.
 
 ## Gerekli Bağımlılıklar
