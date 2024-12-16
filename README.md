@@ -60,7 +60,7 @@ Eğer uygulama çalışırken bir hata ile karşılaşırsanız, hata mesajını
 
 ## Kaynaklar
 
-- [NVI TC Kimlik No Doğrulama Web Servisi]([https://tckimlik.nvi.gov.tr/WS](https://tckimlik.nvi.gov.tr/Home))
+- [NVI TC Kimlik No Doğrulama Web Servisi](https://tckimlik.nvi.gov.tr/Home)
 
   
 ## Lisans
