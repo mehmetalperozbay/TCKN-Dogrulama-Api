@@ -55,7 +55,7 @@ Bu uygulama .NET Core veya .NET Framework ile uyumludur ve **HttpClient** kütü
 
 Eğer uygulama çalışırken bir hata ile karşılaşırsanız, hata mesajını görmek için aşağıdaki noktaları kontrol edin:
 
-- **Yanıt Durum Kodu**: Eğer API isteği başarılı olursa, `request.IsSuccessStatusCode` ile kontrol edilen durum kodları 200 ile 206 arasındadır. Yanlış kimlik bilgisi durumunda, API'nin döndüğü XML içerik kontrol edilir.
+- **Yanıt Durum Kodu**: Eğer API isteği başarılı olursa, `request.IsSuccessStatusCode` ile kontrol ediir. Yanlış kimlik bilgisi durumunda, API'nin döndüğü XML içerik kontrol edilir.
 - **Hata Mesajı**: Uygulama, oluşan hatayı ekrana yazdırır ve bu hataya göre gerekli düzeltmeleri yapabilirsiniz.
 
 ## Kaynaklar
