@@ -11,7 +11,7 @@ Bu C# uygulaması, Türkiye Cumhuriyeti (TC) kimlik numarasının doğruluğunu 
 
 ## Gerekli Bağımlılıklar
 
-Bu uygulama .NET Core veya .NET Framework ile uyumludur ve **HttpClient** kütüphanesini kullanarak web isteği gönderir. `HttpClient` sınıfı, `.NET`'in standart bir parçasıdır, bu yüzden ek bir paket yüklemeye gerek yoktur.
+Bu uygulama .NET Core veya .NET Framework ile uyumludur ve **HttpClient** kütüphanesini kullanarak web isteği gönderir. `HttpClient` sınıfı, `.NET`'in standart bir parçasıdır, bu yüzden ek bir paket yüklemeye gerek yoktur. Python'daki `requests` modülüne benzer.
 
 ## Kullanım
 
