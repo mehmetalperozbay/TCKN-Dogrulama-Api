@@ -69,5 +69,5 @@ Bu proje, **MIT Lisansı** altında lisanslanmıştır.
 
 ## Request / Response Formatı
 
-**İstek Formatı: SOAP (XML tabanlı)**
-**Yanıt Formatı: XML**
+- **İstek Formatı: SOAP (XML tabanlı)**
+- **Yanıt Formatı: XML**
